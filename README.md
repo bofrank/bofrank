@@ -1,3 +1,5 @@
+![My SVG](assets/hero.svg)
+
 ## Snakify 🐍🐍🐍
 
 <picture>
@@ -6,6 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bofrank/bofrank/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![My SVG](assets/hero.svg)
+
 
 
